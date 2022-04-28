@@ -3,6 +3,16 @@
 Développement d'une application simple de questions/réponses en Django pour un projet scolaire de M1 développée avec le framework Python Django en ersion 4.0.4 sur 
 un environnement Windows.
 
+## Base de données
+
+#### Django
+
+![App Screenshot](https://raw.githubusercontent.com/c-bringer/Django-Polls-App/main/documentation/img/dbdjango.png)
+
+#### Application
+
+![App Screenshot](https://raw.githubusercontent.com/c-bringer/Django-Polls-App/main/documentation/img/dbapp.png)
+
 ## Scénarios
 
 #### Page d'accueil
